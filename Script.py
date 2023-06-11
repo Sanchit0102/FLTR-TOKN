@@ -146,9 +146,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Techno Jay
-• ᴜꜱᴇʀɴᴀᴍᴇ : @TechnoJay_bot
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/TechnoJay_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : NJ BOI
+• ᴜꜱᴇʀɴᴀᴍᴇ : @neymar_boi
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/neymar_boi'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
