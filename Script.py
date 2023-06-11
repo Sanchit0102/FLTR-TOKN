@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/DQ_The_File_Donor_Updates'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/botsbynjboi'>𝗡𝗝 𝗕𝗢𝗜</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -14,8 +14,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-Tʜɪs Is Aɴ Pʀɪᴠᴀᴛᴇ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @TechnoJay_bot
-- 100﹪ Cᴏᴅᴇᴅ By <a href="https://t.me/TechnoJay_bot">Techno Jay</a></b>"""
+Tʜɪs Is Aɴ Pʀɪᴠᴀᴛᴇ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @botsbynjboi 
+- 100﹪ Cᴏᴅᴇᴅ By <a href="https://t.me/botsbynjboi">𝗡𝗝 𝗕𝗢𝗜</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -146,9 +146,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Techno Jay
-• ᴜꜱᴇʀɴᴀᴍᴇ : @TechnoJay_bot
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/TechnoJay_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝗡𝗝 𝗕𝗢𝗜
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Neymar_boi
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/neymar_boi'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -194,8 +194,8 @@ Nᴀᴍᴇ - {}"""
 <b>
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @IPopcornchannel
-▫️ Movie Request ɢʀᴏᴜᴘ : @iPopcornGroup
+▫️ ᴄʜᴀɴɴᴇʟ : @botsbynjboi
+▫️ Movie Request ɢʀᴏᴜᴘ : @movierequestgroupNj
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
