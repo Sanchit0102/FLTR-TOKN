@@ -1131,7 +1131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ 〄', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ ⍟', callback_data='about'),
-                    InlineKeyboardButton('◇ Sᴇᴀʀᴄʜ ◇', url="http://t.me/NJAUTOFILTERSUPPORT_BOT")
+                    InlineKeyboardButton('¤ Sᴜᴘᴘᴏʀᴛ ¤', url="http://t.me/NJAUTOFILTERSUPPORT_BOT")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -1211,7 +1211,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('⌬ 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏 ⌬', url=GRP_LNK),
+            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', callback_data='source')
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
