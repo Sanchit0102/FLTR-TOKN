@@ -1130,11 +1130,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('✿ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✿', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('💻 Bᴏᴛ Oᴡɴᴇʀ 💻', callback_data="owner_info"),
-                    InlineKeyboardButton('⌬ 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏 ⌬', url=GRP_LNK)
+                    InlineKeyboardButton('❂ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ❂', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ 〄', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ ⍟', callback_data='about'),
-                    InlineKeyboardButton('¤ Sᴜᴘᴘᴏʀᴛ ¤', url="http://t.me/NJAUTOFILTERSUPPORT_BOT")
+                    InlineKeyboardButton('✎ Sᴜᴘᴘᴏʀᴛ ✎', url="http://t.me/NJAUTOFILTERSUPPORT_BOT")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -1214,7 +1214,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏', url=GRP_LNK),
+            InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', callback_data='source')
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
@@ -1609,7 +1609,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0, [
         InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}#{message.from_user.id}"),
-        InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{message.from_user.id}")
+        InlineKeyboardButton("♪ Lᴀɴɢᴜᴀɢᴇs ❗", callback_data=f"select_lang#{message.from_user.id}")
     ])
 
     btn.insert(0, [
