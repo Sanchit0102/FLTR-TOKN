@@ -99,7 +99,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 👥 Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 📉 Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 🆓 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>\n
-<a href=~ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ"https://t.me/botsbynjboi">ɴᴊ ʙᴏᴛs</a></b>'''
+<a href="https://t.me/botsbynjboi">~ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ɴᴊ ʙᴏᴛs</a></b>'''
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
