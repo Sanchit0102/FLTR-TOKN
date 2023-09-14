@@ -43,15 +43,15 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 IS_VERIFY = bool(environ.get('IS_VERIFY', True))
-VERIFY2_URL = environ.get('VERIFY2_URL', "urlshortx.com")
-VERIFY2_API = environ.get('VERIFY2_API', "f16a1a5735e87937d155ced6039c6e6d9ebc4d94")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlshortx.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'f16a1a5735e87937d155ced6039c6e6d9ebc4d94')
+VERIFY2_URL = environ.get('VERIFY2_URL', "tnshort.net")
+VERIFY2_API = environ.get('VERIFY2_API', "f12bdd3c5c118fdc7ab6dd26bbf360968923f379")
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnshort.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'f12bdd3c5c118fdc7ab6dd26bbf360968923f379')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
